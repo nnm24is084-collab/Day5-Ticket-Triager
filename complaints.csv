@@ -1,0 +1,21 @@
+complaint,expected_equipment,expected_urgency,expected_hospital
+"Ventilator stopped working at City Hospital",Ventilator,Critical,City Hospital
+"Oxygen monitor failure at Apollo Hospital",Oxygen Monitor,High,Apollo Hospital
+"Infusion pump has an error at Manipal Hospital",Infusion Pump,Medium,Manipal Hospital
+"ECG machine has a minor issue at City Hospital",ECG Machine,Medium,City Hospital
+"X-ray machine is broken at Sunrise Hospital",X-Ray Machine,High,Sunrise Hospital
+"Defibrillator not working at Metro Hospital",Defibrillator,Critical,Metro Hospital
+"Ventilator overheating at City Hospital",Ventilator,High,City Hospital
+"Oxygen monitor routine observation",Oxygen Monitor,Low,
+"Infusion pump stopped at Apollo Hospital",Infusion Pump,Critical,Apollo Hospital
+"ECG machine urgent alarm at Manipal Hospital",ECG Machine,High,Manipal Hospital
+"X-ray machine error at City Hospital",X-Ray Machine,Medium,City Hospital
+"Defibrillator life-threatening failure at Sunrise Hospital",Defibrillator,Critical,Sunrise Hospital
+"Ventilator minor problem at Metro Hospital",Ventilator,Medium,Metro Hospital
+"Pump malfunction at City Hospital",Infusion Pump,High,City Hospital
+"Oxygen equipment routine complaint",Oxygen Monitor,Low,
+"ECG electrocardiogram fault at Apollo Hospital",ECG Machine,Medium,Apollo Hospital
+"Xray machine urgent repair at Manipal Hospital",X-Ray Machine,High,Manipal Hospital
+"Defibrillator routine check needed",Defibrillator,Low,
+"Ventilator patient affected at Sunrise Hospital",Ventilator,Critical,Sunrise Hospital
+"Unknown equipment general complaint at City Hospital",Unknown Equipment,Medium,City Hospital

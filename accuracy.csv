@@ -1,0 +1,21 @@
+complaint,expected_urgency,predicted_urgency,result
+Ventilator stopped working at City Hospital,Critical,Critical,PASS
+Oxygen monitor failure at Apollo Hospital,High,High,PASS
+Infusion pump has an error at Manipal Hospital,Medium,Medium,PASS
+ECG machine has a minor issue at City Hospital,Medium,Medium,PASS
+X-ray machine is broken at Sunrise Hospital,High,High,PASS
+Defibrillator not working at Metro Hospital,Critical,Critical,PASS
+Ventilator overheating at City Hospital,High,High,PASS
+Oxygen monitor routine observation,Low,Low,PASS
+Infusion pump stopped at Apollo Hospital,Critical,Critical,PASS
+ECG machine urgent alarm at Manipal Hospital,High,High,PASS
+X-ray machine error at City Hospital,Medium,Medium,PASS
+Defibrillator life-threatening failure at Sunrise Hospital,Critical,Critical,PASS
+Ventilator minor problem at Metro Hospital,Medium,Medium,PASS
+Pump malfunction at City Hospital,High,High,PASS
+Oxygen equipment routine complaint,Low,Low,PASS
+ECG electrocardiogram fault at Apollo Hospital,Medium,Medium,PASS
+Xray machine urgent repair at Manipal Hospital,High,High,PASS
+Defibrillator routine check needed,Low,Low,PASS
+Ventilator patient affected at Sunrise Hospital,Critical,Critical,PASS
+Unknown equipment general complaint at City Hospital,Medium,Medium,PASS
