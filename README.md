@@ -24,3 +24,6 @@ python triager.py
 ## Note
 Rule-based prototype. Prompts are not connected to a live LLM. Not clinically validated.
 
+
+## Project Status
+Completed as part of AI Studio Internship Day 5. Includes structured complaint output and evaluation on 20 synthetic test cases.
